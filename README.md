@@ -1,4 +1,4 @@
-# Fawery-System
+# Fawery-System🪙
 something similar to Fawry system.🙃
 The user should be able to search🔍️for any service.
 The user can pay🤑for any service in the system(The default way is to pay via credit card).
